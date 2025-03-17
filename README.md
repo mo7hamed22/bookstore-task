@@ -88,12 +88,3 @@ http://localhost:3000/api
 - [ ] Add Pagination Support
 - [ ] Improve Unit Test Coverage
 
-## 🤝 Contributing
-1. Fork the repo
-2. Create a new branch (`feature-xyz`)
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
-
-## 📜 License
-MIT License © 2025 Mohamed Eissa
